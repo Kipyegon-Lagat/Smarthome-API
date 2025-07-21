@@ -144,7 +144,7 @@ export default function MonitoringDashboard() {
             </CardHeader>
             <CardContent>
               <div className="text-2xl font-bold">{systemHealth.activeAutomations}</div>
-              <p className="text-xs text-muted-foreground">Running smoothly</p>
+              <p className="text-xs text-muted-foreground">Running Smoothly</p>
             </CardContent>
           </Card>
 
