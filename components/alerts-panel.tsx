@@ -45,7 +45,7 @@ export function AlertsPanel() {
     },
     {
       id: "2",
-      type: "warning",
+      type: "Warning",
       title: "High Memory Usage",
       message: "System memory usage has exceeded 80% threshold",
       timestamp: "15 minutes ago",
