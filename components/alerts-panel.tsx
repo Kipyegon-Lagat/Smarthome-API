@@ -75,7 +75,7 @@ export function AlertsPanel() {
     },
     {
       id: "5",
-      type: "success",
+      type: "Success",
       title: "Backup Completed",
       message: "Daily system backup completed successfully",
       timestamp: "1 day ago",
