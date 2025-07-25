@@ -78,7 +78,7 @@ export function AutomationStatus() {
     {
       id: "1",
       name: "Movie Night",
-      description: "Dim lights, close blinds, turn on TV",
+      description: "Dim lights, Close blinds, turn on TV",
       deviceCount: 5,
       lastActivated: "2 days ago",
       icon: "🎬",
