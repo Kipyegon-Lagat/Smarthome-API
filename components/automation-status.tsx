@@ -141,7 +141,7 @@ export function AutomationStatus() {
             <Zap className="h-5 w-5" />
             <span>Automation Rules</span>
           </CardTitle>
-          <CardDescription>Manage and monitor your automation rules</CardDescription>
+          <CardDescription>Manage your automation rules</CardDescription>
         </CardHeader>
         <CardContent>
           <div className="space-y-4">
