@@ -55,7 +55,7 @@ export function AlertsPanel() {
     },
     {
       id: "3",
-      type: "warning",
+      type: "Warning",
       title: "Automation Failed",
       message: "Morning Routine automation failed to execute completely",
       timestamp: "3 hours ago",
