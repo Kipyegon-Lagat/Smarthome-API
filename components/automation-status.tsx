@@ -56,7 +56,7 @@ export function AutomationStatus() {
       name: "Energy Saver",
       description: "Turn off lights when no motion detected for 30 minutes",
       isActive: false,
-      triggerType: "sensor",
+      triggerType: "Sensor",
       lastExecuted: "1 day ago",
       executionCount: 234,
       successRate: 95.2,
