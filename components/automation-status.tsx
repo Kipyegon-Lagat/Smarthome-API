@@ -196,7 +196,7 @@ export function AutomationStatus() {
             <Home className="h-5 w-5" />
             <span>Scenes</span>
           </CardTitle>
-          <CardDescription>Quick access to your favorite device configurations</CardDescription>
+          <CardDescription>Quick access to your device configurations</CardDescription>
         </CardHeader>
         <CardContent>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
