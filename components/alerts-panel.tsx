@@ -36,7 +36,7 @@ export function AlertsPanel() {
     {
       id: "1",
       type: "critical",
-      title: "Device Offline",
+      title: "Offline",
       message: "Bedroom Light has been offline for more than 2 hours",
       timestamp: "2 hours ago",
       source: "Device Monitor",
