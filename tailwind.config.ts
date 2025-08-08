@@ -1,4 +1,4 @@
-import typesss { Config } from "tailwindcss";
+import types { Config } from "tailwindcss";
 
 // all in fixtures is set to tailwind v3 as interims solutions
 
