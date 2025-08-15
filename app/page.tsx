@@ -12,7 +12,7 @@ import { PerformanceMetrics } from "@/components/performance-metrics"
 import { AlertsPanel } from "@/components/alerts-panel"
 
 interface SystemHealth {
-  status: "healthy" | "warning" | "critical"
+  status: "healthy" | "warning" |  "critical"
   uptime: string
   totalDevices: number
   onlineDevices: number
